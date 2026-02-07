@@ -4,15 +4,18 @@ This repository contains my practice work using Google BigQuery
 (Sandbox mode) with the NYC Yellow Taxi dataset (Jan–Jun 2024).
 
 ## Repository Structure
+
+```text
 ny-taxi-bigquery-practice/
 │
 ├── bigquery/
-│ ├── 01_combine_tables.sql 
-│ ├── 02_analysis_queries.sql
-│ └── notes.md 
+│   ├── 01_combine_tables.sql
+│   ├── 02_analysis_queries.sql
+│   └── notes.md
 │
 ├── README.md
 └── .gitignore
+
 
 ## Tools
 - Google BigQuery (Sandbox)
