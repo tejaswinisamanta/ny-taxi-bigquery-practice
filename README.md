@@ -7,9 +7,9 @@ This repository contains my practice work using Google BigQuery
 ny-taxi-bigquery-practice/
 │
 ├── bigquery/
-│   ├── 01_combine_tables.sql
-│   ├── 02_analysis_queries.sql
-│   └── notes.md
+│ ├── 01_combine_tables.sql 
+│ ├── 02_analysis_queries.sql
+│ └── notes.md 
 │
 ├── README.md
 └── .gitignore
@@ -28,4 +28,4 @@ ny-taxi-bigquery-practice/
   does not allow Cloud Storage access without billing
 
 ## Status
-Learning in progress 🚧
+Data Engineering Zoomcamp - Week 3 : Complete
