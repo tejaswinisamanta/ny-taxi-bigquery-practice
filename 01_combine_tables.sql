@@ -1,3 +1,4 @@
+-- 1. COMBINE ALL MONTHS INTO ONE TABLE
 CREATE OR REPLACE TABLE `bigquery-486416.ny_taxi.yellow_taxi_2024`
 AS
 SELECT * FROM `bigquery-486416.ny_taxi.NYC Taxi Jan`
