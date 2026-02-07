@@ -20,6 +20,15 @@ ny-taxi-bigquery-practice/
 ## Tools
 - Google BigQuery (Sandbox)
 
+## Data
+For this homework we used the Yellow Taxi Trip Records 
+for January 2024 - June 2024 (not the entire year of data).
+
+Parquet Files are available from the New York City Taxi Data found here:
+```
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+```
+
 ## What I Did
 - Uploaded monthly Parquet files
 - Combined them into a single table
