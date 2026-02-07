@@ -15,7 +15,7 @@ ny-taxi-bigquery-practice/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ## Tools
 - Google BigQuery (Sandbox)
